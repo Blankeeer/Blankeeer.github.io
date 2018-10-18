@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>GDZ_by_david.com</title>
+</head>
+<body background="phon.jpg">
+<h1 align="center"> <font color="#B22222"> ГДЗ</font> - Григорян Давид Знает</h1> 
+<p style="text-align: center;"><img src="внимание.png"width="1200"height="500"></p>
+<h1 align="center"> <strong>ЭТОТ САЙТ СОЗДАН ДЛЯ ЛЮДЕЙ У КОТОРЫХ IQ &lt 18. ЕСЛИ У ВАС БОЛЕЕ 18 IQ , ТО СРОЧНО ПОКИНЬТЕ ЭТОТ САЙТ!ПРОВОЖДЕНИЕ НА ЭТОМ САЙТЕ БОЛЕЕ 5 МИНУТ ВЕДЁТ К РЕЗКОЙ ДЕГАРАДАЦИИ ВАШЕГО РАЗВИТИЯ!<p> <big> <strong>Для того что бы попасть на сайт, вам нужно пройти проверку проверку на IQ  </strong> 
+<p>Выберите правильный ответ:<p>
+  <big> <strong>  <a href="GDZ.html"> 1) 3+2=1</a>  <br>         <a href="вы не прошли.html"> 2) 3+2=15</a> <br>         <a href="вы не прошли.html"> 3) 2+3=5</a> 
